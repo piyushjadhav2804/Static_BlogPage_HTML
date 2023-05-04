@@ -1,2 +1,2 @@
 # FrontEnd_Projects
-Created with CodeSandbox
+Static blog page created with CodeSandbox using HTML5
